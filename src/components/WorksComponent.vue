@@ -54,4 +54,10 @@ text-align: center;
 margin-top: 20px;
 font-size: 80px;
 }
+
+@media screen and (max-width: 800px) {
+    .work{        
+        width: 300px;
+    }
+}
 </style>

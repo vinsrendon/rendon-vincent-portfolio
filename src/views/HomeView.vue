@@ -49,10 +49,10 @@ p{
 }
 @media screen and (max-width: 800px) {
     .wrapper h1{
-        font-size: 80px;
+        font-size: 75px;
     }
 .wrapper p{
-        font-size: 24px;
+        font-size: 20px;
     }
 }
 </style>
