@@ -26,7 +26,7 @@ p{
 }
 .wrapper{    
     /*Photo by Markus Spiske on Unsplash*/
-    background-image: url('src/assets/markus-spiske-hvSr_CVecVI-unsplash.jpg');
+    background-image: url('https://unsplash.com/photos/computer-coding-screengrab-hvSr_CVecVI');
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
