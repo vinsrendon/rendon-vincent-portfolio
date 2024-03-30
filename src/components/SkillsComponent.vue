@@ -32,7 +32,7 @@ font-size: 80px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding: 0px 50px 0px 50px;
+    padding: 0px 25px 0px 25px;
 }
 .Container img{
     filter: invert(1);
