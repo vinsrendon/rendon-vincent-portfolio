@@ -31,6 +31,7 @@ body{
     width: 24px;
     margin-top: -5px; 
     filter: invert(1.0);
+    cursor: pointer;
 }
 nav{
     position: fixed;
@@ -98,4 +99,10 @@ nav li:first-child{
     .sidebar{
         width: 100%;
     }
+}
+.lock-scroll {
+    overflow: hidden;
+}
+.unlock-scroll {
+    overflow: visible;
 }

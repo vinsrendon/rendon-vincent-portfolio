@@ -18,7 +18,7 @@
                 <a href="https://github.com/vinsrendon/API_Projects" target="_blank">
                     <img src="@/assets/api.jpg" alt="API image">
                 </a>
-                <h2>First Come First Server CPU scheduling program using Javascript</h2>
+                <h2>API Projects</h2>
             </div>
         </div>
     </div>
@@ -43,6 +43,7 @@ h2{
     border-width: 1px;
     border-color: white;
     width: 30%;
+    margin: 10px;
 }
 .work img{
     width: 100%;

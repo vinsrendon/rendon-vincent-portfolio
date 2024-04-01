@@ -32,13 +32,14 @@ font-size: 80px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding: 0px 50px 0px 50px;
+    padding: 0px 25px 0px 25px;
 }
 .Container img{
     filter: invert(1);
     width: 20%;
     padding: 25px;
     pointer-events: none;
+    z-index: -1;
 }
 @media screen and (max-width: 800px) {
     .Container img{

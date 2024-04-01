@@ -27,7 +27,8 @@ p{
 .wrapper{    
     /*Photo by Markus Spiske on Unsplash*/
     background-image: url('/src/assets/markus-spiske-unsplash.jpg');
-    height: 100vh;
+    height: 100vh; /*fallback*/
+    height: 100svh;
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -49,6 +50,7 @@ p{
 }
 @media screen and (max-width: 800px) {
     .wrapper h1{
+        padding-top: 80px;
         font-size: 75px;
     }
 .wrapper p{
