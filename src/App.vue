@@ -25,7 +25,7 @@ function unlockScroll(){
   <header>
       <nav>
         <ul class="sidebar">
-          <li @click="hideSidebar()"><a href="#"><img class="icon" src="@/assets/x-icon.svg" alt="close sidebar icon"></a></li>
+          <li @click="hideSidebar()"><a><img class="icon" src="@/assets/x-icon.svg" alt="close sidebar icon"></a></li>
           <li @click="hideSidebar()"><a href="#home">Home</a></li>
           <li @click="hideSidebar()"><a href="#works">Works</a></li>
           <li @click="hideSidebar()"><a href="#skills">Skills</a></li>
