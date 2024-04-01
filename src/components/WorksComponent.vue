@@ -43,7 +43,6 @@ h2{
     border-width: 1px;
     border-color: white;
     width: 30%;
-    margin: 10px;
 }
 .work img{
     width: 100%;
